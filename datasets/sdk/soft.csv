@@ -1,0 +1,9 @@
+name,description
+Paparazzi UAV,"Its primary focus is autonomous flight, and it's designed to be portable to allow operators to easily take their devices into the field and program their flights across a series of waypoints"
+ArduPilot,"Its features include advanced data-logging, analysis, and simulation tools, and it's supported by a broad ecosystem of third-party sensors, companion computers, and communication systems."
+Dronecode, "It's been through a lot of changes in the last few years, but today it serves as the governance structure for the components of the overall platform, where the project's actual development occurs."
+LibrePilot, "The LibrePilot software suite is designed to control multi-copters and other radio-controlled drones."
+Flone, "It combines a digitally fabricated airframe with software that allows an Android smartphone on the ground to control the one strapped onto the airframe via Bluetooth."
+OpenDroneMap, "This software takes this aerial imagery and helps you process it into point clouds, digital surface and elevation models, or just orthorectify the imagery (in essence, line up the imagery to a known coordinate system for further analysis)."
+DronePan, "DronePan is an iOS app (with an Android app on the way) that automates panoramic photography with DJI drones."
+
